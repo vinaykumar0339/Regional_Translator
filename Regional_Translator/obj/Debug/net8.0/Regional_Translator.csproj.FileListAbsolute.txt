@@ -1,0 +1,14 @@
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/bin/Debug/net8.0/Regional_Translator
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/bin/Debug/net8.0/Regional_Translator.deps.json
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/bin/Debug/net8.0/Regional_Translator.runtimeconfig.json
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/bin/Debug/net8.0/Regional_Translator.dll
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/bin/Debug/net8.0/Regional_Translator.pdb
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/Regional_Translator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/Regional_Translator.AssemblyInfoInputs.cache
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/Regional_Translator.AssemblyInfo.cs
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/Regional_Translator.csproj.CoreCompileInputs.cache
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/Regional_Translator.dll
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/refint/Regional_Translator.dll
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/Regional_Translator.pdb
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/Regional_Translator.genruntimeconfig.cache
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/ref/Regional_Translator.dll
