@@ -92,6 +92,12 @@
     {"english": "more", "telugu": "adikam"},
     {"english": "cloudy", "telugu": "mabbulu"},
     {"english": "proud", "telugu": "garvistunna"},
-    {"english": "relaxing", "telugu": "visranthi"}
+    {"english": "sad", "telugu": "dukham"},
+    {"english": "angry", "telugu": "kopam"},
+    {"english": "excited", "telugu": "utsaham"},
+    {"english": "confused", "telugu": "sandeham"},
+    {"english": "love", "telugu": "prema"},
+    {"english": "hate", "telugu": "dvesham"},
+    {"english": "dead", "telugu": "mrutyuv"}
 ]
   

@@ -13,28 +13,39 @@ namespace Regional_Translator
                 return;
             }
 
+            Console.WriteLine("Hello! Happy to help!!!");
             AskWord(dictionaryWords);
         }
 
         public static void AskWord(List<DictionaryWords> dictionaryWords) {
-            Console.WriteLine("Hello! Happy to help!!!");
             Console.Write("Please enter a word: ");
             string teluguWord = Console.ReadLine() ?? string.Empty;
             string? englishWord = GetEnglishWord(teluguWord, dictionaryWords);
             if (englishWord is null) {
                 Console.WriteLine($"Sorry, I don't know the English word for \"{teluguWord}\".");
+                AskWord(dictionaryWords);
+                return;
             } else {
                 Console.WriteLine($"The English word for \"{teluguWord}\" is \"{englishWord}\"");
             }
             Console.Write("Are you looking for more words? [y/n] ");
-            string response = Console.ReadLine() ?? string.Empty;
-            if (response == "y")
+            while (true)
             {
-                AskWord(dictionaryWords);
-            }
-            else
-            {
-                Console.WriteLine("Thanks for using Happy to help 😊 Bye!");
+                string response = Console.ReadLine() ?? string.Empty;
+                if (response == "y")
+                {
+                    AskWord(dictionaryWords);
+                    break;
+                }
+                else if (response == "n")
+                {
+                    Console.WriteLine("Thanks for using Happy to help 😊 Bye!");
+                    break;
+                }
+                else
+                {
+                    Console.Write("Invalid response. Please enter [y/n]: ");
+                }
             }
         }
 

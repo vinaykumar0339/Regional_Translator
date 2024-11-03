@@ -12,3 +12,5 @@
 /Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/Regional_Translator.pdb
 /Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/Regional_Translator.genruntimeconfig.cache
 /Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/ref/Regional_Translator.dll
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/bin/Debug/net8.0/Resources/dictionary.json
+/Users/vinaykumar/practice/Santhosh/Regional_Translator/Regional_Translator/obj/Debug/net8.0/Regional_Translator.sourcelink.json
